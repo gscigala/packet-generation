@@ -5,3 +5,12 @@ Makefile
 cmake_install.cmake
 install_manifest.txt
 CTestTestfile.cmake
+
+#python files
+*.pyc
+*.egg-info
+
+#Generated files
+*.deb
+*.so
+*build
